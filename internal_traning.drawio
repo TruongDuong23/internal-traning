@@ -156,7 +156,7 @@
             <mxPoint x="300" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vvhM5-vF624EOgHBPcxO-59" value="(&#39;shared_library&#39; &amp;lt;--- &#39;vnbe-shared&#39; branch&lt;div&gt;(Global Trusted Pipiline Plugin)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vvhM5-vF624EOgHBPcxO-59" value="(&#39;shared_library&#39; &amp;lt;--- &#39;vnbe-shared&#39; branch)&lt;div&gt;(Global Trusted Pipiline Plugin)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="1000" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
